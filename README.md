@@ -75,7 +75,6 @@ A full time Web design & Web developer
 
 <img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />
 <img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />
-<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />
 <img align="left" alt="android" title="php playlist" width="45" hspace="5" src="./images/php.svg" />
 <img align="left" alt="python" title="laravel playlist" width="45" hspace="5" src="./images/laravel.svg" />
 
@@ -235,7 +234,6 @@ All rights reserved by Anisul Islam @2021
 
 [cplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz
 [cplusplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL
-[javaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa
 [aienglishplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rRVV7oeML93OVAxqQ-CvzV
 [aibanglaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oFAaeJxjDWA8kEbMutzV6V
 [javaswingplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l
