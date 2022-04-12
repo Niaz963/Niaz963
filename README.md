@@ -7,6 +7,9 @@
 A full time Web design & Web developer  
 🏠 &nbsp; Living: Dhaka, Bangladesh
 
+
+![Profile views](https://gpvc.arturio.dev/shovoalways) 
+
 <!-- Contact me section starts here  -->
 
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
