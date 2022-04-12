@@ -73,11 +73,11 @@ A full time Web design & Web developer
 
 #### Other Skills & Videos:
 
-[<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />][cplaylist]
-[<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />][cplusplaylist]
-[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />][javaplaylist]
-[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/php.svg" />]
-[<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/laravel.svg" />]
+[<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />]
+[<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />]
+[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />]
+[<img align="left" alt="android" title="php playlist" width="45" hspace="5" src="./images/php.svg" />]
+[<img align="left" alt="python" title="laravel playlist" width="45" hspace="5" src="./images/laravel.svg" />]
 
 <br/>
 <br/>
