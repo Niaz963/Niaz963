@@ -121,15 +121,15 @@ A full time Web design & Web developer
 
 ### 👨🏻‍🎓 &nbsp; Education
 
-1. M.Sc. in Software, Web & Cloud  
-   Tampere University  
-   Tampere, Finland.
-2. B.Sc. in Computer Science & Engineering  
-   Leading University  
-   Sylhet, Bangladesh.
-3. Professional Diploma in Travel & Tourism  
-    London School of Commerce & IT  
-   London, England.
+1. B.Sc. in Electronics and Communication Engineering 
+   Institute of Science & Technology, National University  
+   Dhaka, Bangladesh.
+2. H.S.C  (Science)
+   Government Syed Hatem Ali College 
+   Barisal, Bangladesh.
+3. S.S.C/Dakhil (Science)
+   Jhalokathi N.S Kamil Madrasah 
+   Jhalokathi, Bangladesh.
 
 <br />
 
