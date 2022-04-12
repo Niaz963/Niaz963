@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <img src="./images/banner.png" width="100%">
 <!-- banner image ends here  -->
 
-<h1> 👋 Hello, I'm Anisul Islam </h1>
+<h1> 👋 Hello, I'm MD. Abu Bakar Siddique </h1>
 
-A full time content creator on & web developer  
-🏠 &nbsp; Living: Tampere, Finland
+A full time web design & web developer  
+🏠 &nbsp; Living: Dhaka, Bangladesh
 
 <!-- Contact me section starts here  -->
 
@@ -40,12 +40,9 @@ A full time content creator on & web developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects
-to millions of Bangla speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity
-to teach thousands of Bachelor and Higher secondary students of different institutions in Bangladesh.
-After completing my masters in Software, Web and Cloud in August 2021, I am spending much time
-improving my web development skills. Every day I want to learn something new and share my knowledge with
-my students and others.
+  I am Md. Abu Bakar Siddique,Have completed B.Sc in Electronics and Communication Engineering(ECE) from Institute of Science & Technology(IST),Under National         University.I have experience on Web design & Web developer. After completing my  B.Sc Engineering, I am spending much time
+  improving my web development skills. Every day I want to learn something new and share my knowledge with
+  my teachers and others.
 </p>
 
 <br />
@@ -64,9 +61,6 @@ my students and others.
 [<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />][jsonplaylist]
 [<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />][sassplaylist]
 [<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />][jqueryplaylist]
-[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />][reactplaylist]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />][nodeandexpressplaylist]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />][mongodbplaylist]
 [<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />][mysqlplaylist]
 [<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][githubplaylist]
 
@@ -219,7 +213,7 @@ All rights reserved by Anisul Islam @2021
 
 [website]: http://www.studywithanis.com/
 [youtube]: https://www.youtube.com/c/anisulislamrubel
-[facebook]: https://www.facebook.com/studywithanis/
+[facebook]: https://www.facebook.com/arif.islam.7921975/
 [linkedin]: https://www.linkedin.com/in/anisul2020/
 [github]: https://github.com/anisul-Islam
 
