@@ -52,7 +52,7 @@ A full time Web design & Web developer
 <img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery.svg" />
 <img align="left" alt="mysql" title="mysql" width="45" hspace="5" src="./images/mysql.svg" />
 <img align="left" alt="php" title="php" width="45" hspace="5" src="./images/php.svg" />
-<img align="left" alt="laravel" title="laravel" width="45" hspace="5" src="./images/laravel.svg" />
+<img align="left" alt="laravel" title="laravel" width="45" hspace="5" src="./images/laravel.svg" /> <br/>
 <img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
 
 
