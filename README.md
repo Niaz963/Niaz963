@@ -33,7 +33,7 @@ A full time Web design & Web developer
 
 <!-- web related skills section starts here  -->
 
-### 👨🏽‍💻 &nbsp; My Skills:
+### 👨🏽‍💻 &nbsp; My Skills & Experiance:
 
 #### Key Skills on Web design & Web development:
 
