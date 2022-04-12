@@ -54,15 +54,15 @@ A full time Web design & Web developer
 
 #### Key Skills & Videos on Web development:
 
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />][htmlplaylist]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />][cssplaylist]
-[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />][bootstrapplaylist]
-[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />][javascriptplaylist]
-[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />][jsonplaylist]
-[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />][sassplaylist]
-[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />][jqueryplaylist]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />][mysqlplaylist]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][githubplaylist]
+<img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />
+<img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />
+<img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap.svg" />
+<img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/js.svg" />
+<img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json.svg" />
+<img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" />
+<img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery.svg" />
+<img align="left" alt="mysql" title="mysql" width="45" hspace="5" src="./images/mysql.svg" />
+<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
 
 <br />
 <br />
@@ -216,19 +216,7 @@ All rights reserved by Anisul Islam @2021
 [linkedin]: https://www.linkedin.com/in/anisul2020/
 [github]: https://github.com/anisul-Islam
 
-<!-- web related playlists starts here  -->
 
-[htmlplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3
-[cssplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO
-[bootstrapplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG
-[javascriptplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX
-[jsonplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rWYYIcCykektDcb_1IPDz4
-[sassplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qOvGYtFb3Z7KVMLrijYdqO
-[jqueryplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB
-[mysqlplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD
-[githubplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
-
-<!-- web related playlists ends here  -->
 
 <!-- cse related playlists starts here  -->
 
