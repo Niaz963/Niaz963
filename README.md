@@ -82,20 +82,18 @@ A full time Web design & Web developer
 <br/>
 <br/>
 
-- [Artificial Intelligence (English)][aienglishplaylist]
-- [Artificial Intelligence (Bangla)][aibanglaplaylist]
-- [Java Swing][javaswingplaylist]
-- [Discrte Math][dsplaylist]
-- [Numerical Method][numericalplaylist]
-- [Theory of computation][tocplaylist]
-- [Compiler][compilerplaylist]
-- [Networking][networkingplaylist]
-- [Operating System][operatingsystemplaylist]
-- [HSC ICT][hscictplaylist]
-- [Learn for skill][learnforskillplaylist]
-- [MS Word][mswordplaylist]
-- [MS Excel][msexcelplaylist]
-- [MS powerpoint][mspowerpointplaylist]
+- CCNA
+- LINUX
+- MCSA
+- MikroTik 
+- Networking
+- Operating System
+- HSC ICT
+- Learn for skill
+- MS Word
+- MS Excel
+- MS powerpoint
+
   <!-- other skills and my videos for computer science section ends here  -->
 
   <br/>
