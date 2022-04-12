@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h1> 👋 Hello, I'm MD. Abu Bakar Siddique </h1>
 
-A full time web design & web developer  
+A full time Web design & Web developer  
 🏠 &nbsp; Living: Dhaka, Bangladesh
 
 <!-- Contact me section starts here  -->
@@ -40,7 +40,7 @@ A full time web design & web developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-  I am Md. Abu Bakar Siddique,Have completed B.Sc in Electronics and Communication Engineering(ECE) from Institute of Science & Technology(IST),Under National         University.I have experience on Web design & Web developer. After completing my  B.Sc Engineering, I am spending much time
+  I am Md. Abu Bakar Siddique,Have completed B.Sc in Electronics and Communication Engineering(ECE) from Institute of Science & Technology(IST),Under National         University.I have experience on Web design & Web development. After completing my  B.Sc Engineering, I am spending much time
   improving my web development skills. Every day I want to learn something new and share my knowledge with
   my teachers and others.
 </p>
