@@ -62,7 +62,10 @@ A full time Web design & Web developer
 <img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" />
 <img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery.svg" />
 <img align="left" alt="mysql" title="mysql" width="45" hspace="5" src="./images/mysql.svg" />
+<img align="left" alt="php" title="php" width="45" hspace="5" src="./images/php.svg" />
+<img align="left" alt="laravel" title="laravel" width="45" hspace="5" src="./images/laravel.svg" />
 <img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
+
 
 <br />
 <br />
@@ -75,8 +78,7 @@ A full time Web design & Web developer
 
 <img align="left" alt="c" title="C" width="45" hspace="5" src="./images/c.svg" />
 <img align="left" alt="c plus plus" title="c++" width="45" hspace="5" src="./images/cplus.svg" />
-<img align="left" alt="php" title="php" width="45" hspace="5" src="./images/php.svg" />
-<img align="left" alt="laravel" title="laravel" width="45" hspace="5" src="./images/laravel.svg" />
+
 
 <br/>
 <br/>
@@ -98,17 +100,6 @@ A full time Web design & Web developer
 
   <br/>
 
-<!-- github stats starts here  -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true)
-
-<br/>
-
-<!-- github stats ends here  -->
 
 
 <!-- other skills and my videos for computer science section starts here  -->
@@ -153,7 +144,7 @@ A full time Web design & Web developer
 - 🇧🇩 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
 - 🇮🇳 Hindi : Intermediate
-- 🇧🇷 Portugues : Basic
+
   <br />
 
 <!-- my languages section ends here  -->
@@ -171,10 +162,6 @@ A full time Web design & Web developer
 
 <!-- Honors & awards section starts here  -->
 
-### 🏅 Honors & Awards :
-
-- Silver Button from YouTube (295k subscribers currently)
-- Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc.
 
 ---
 
@@ -194,27 +181,6 @@ All rights reserved by Anisul Islam @2021
 [github]: https://github.com/anisul-Islam
 
 
-
-<!-- cse related playlists starts here  -->
-
-[cplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz
-[cplusplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL
-[aienglishplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rRVV7oeML93OVAxqQ-CvzV
-[aibanglaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oFAaeJxjDWA8kEbMutzV6V
-[javaswingplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l
-[numericalplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oKFrSOo4Kwns1-vTZmKQ7z
-[operatingsystemplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3r_SuT0AnOEoElfQQPgkBIq
-[dsplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rYy9DVhk28m8enSo8xxiZ3
-[tocplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0
-[compilerplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oWTwTgILA7v9oysoDgkJDg
-[networkingplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p5OI88r3ob-otmKqIm_DbS
-[hscictplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3o8Y-CKhmyodbfHAc9VSVOv
-[learnforskillplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qyJVIaeHSqiRWOyO6HW023
-[mswordplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p21lsneT3cW4CJL4Bd1lJ2
-[mspowerpointplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pBnrckqfJ2zn7FL6Q_LNcm
-[msexcelplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3ohKCQMR7aopneByGX05iSK
-
-<!-- cse related playlists ends here  -->
 
 <!-- Links section ends here -->
 
