@@ -50,9 +50,9 @@ A full time Web design & Web developer
 
 <!-- web related skills section starts here  -->
 
-### 👨🏽‍💻 &nbsp; My Skills & Videos:
+### 👨🏽‍💻 &nbsp; My Skills:
 
-#### Key Skills & Videos on Web development:
+#### Key Skills on Web design & Web development:
 
 <img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />
 <img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />
