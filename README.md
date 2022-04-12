@@ -164,7 +164,7 @@ A full time Web design & Web developer
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by MD> Abu Bakar Siddique @2022
+All rights reserved by MD. Abu Bakar Siddique @2022
 
 ---
 
