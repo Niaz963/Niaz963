@@ -110,7 +110,7 @@ A full time Web design & Web developer
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| IT Executive        | Cloud Systems Limited  (Hardware and Network Engineer) | Oct 2019- Running   | Tampere, Finland   |
+| IT Executive        | Cloud Systems Limited<br/>  (Hardware and Network Engineer) | Oct 2019- Running   | Tampere, Finland   |
 | IT Executive        | Tampere University                          | Nov 2020 - Jan 2021 | Tampere, Finland   |
 | Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
 | Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
