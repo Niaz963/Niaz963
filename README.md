@@ -184,3 +184,8 @@ All rights reserved by MD. Abu Bakar Siddique @2022
 
 <!-- Links section ends here -->
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shovoalways&show_icons=true) 
+
+## 📧 For Business Inquiries 
+✅  ► shovoalways@gmail.com
+
