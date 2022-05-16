@@ -91,7 +91,6 @@ A full time Web design & Web developer
   
    <!-- github stats starts here  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaz963)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaz963&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
