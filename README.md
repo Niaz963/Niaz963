@@ -96,7 +96,7 @@ A full time Web design & Web developer
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Niaz963)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Niaz963&show_icons=true)
 
 <br/>
 
@@ -163,6 +163,9 @@ A full time Web design & Web developer
 <!-- Honors & awards section starts here  -->
 
 
+## 📧 For Business Inquiries 
+✅  ► shovoalways@gmail.com
+
 ---
 
 Thanks for going through my Portfolio.
@@ -186,6 +189,5 @@ All rights reserved by MD. Abu Bakar Siddique @2022
 
 
 
-## 📧 For Business Inquiries 
-✅  ► shovoalways@gmail.com
+
 
